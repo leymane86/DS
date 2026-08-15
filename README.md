@@ -1,9 +1,9 @@
 
 ### 1. Classical AI, Search Algorithms & Planning
 * **Files Included:** `A-star min-max.py`, `Iterative Deepning Search.py`, `min-max.py`, `partial order planning.lisp`
-* **Project Title Suggestion:** Classical AI & Automated Planning Systems
-* **Technologies:** Python, Common Lisp
+* **Technologies:** Python, Lisp
 * **Bullet Points:**
+  * Modified A* search frontier selection to utilize min-max, in order to determine outcome of turn-based simulated competitions
   * Implemented core AI search paradigms including **A* Search**, **Minimax**, and **Iterative Deepening Search (IDS)** to evaluate graph traversal efficiency and path cost optimization.
   * Engineered a **Partial Order Planning (POP)** system in Common Lisp to solve non-linear multi-agent planning and goal-stack problems.
 
