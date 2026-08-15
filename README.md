@@ -30,7 +30,7 @@
 ## Summary Table for Skills Section
 
 
-| Skill Category | |
+| Category | Skills |
 | :--- | :--- |
 | **Languages** | Python, Common Lisp |
 | **Machine Learning & Data** | Supervised/Unsupervised Learning, K-Means, PCA, Binary Classification, Regression, Data Preprocessing, EDA |
