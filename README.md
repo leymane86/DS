@@ -30,8 +30,7 @@
 ## Summary Table for Skills Section
 
 
-| Skill Category | Resume Keywords to Include |
-| :--- | :--- |
+| Skill Category |
 | **Languages** | Python, Common Lisp |
 | **Machine Learning & Data** | Supervised/Unsupervised Learning, K-Means, PCA, Binary Classification, Regression, Data Preprocessing, EDA |
 | **Artificial Intelligence** | Reinforcement Learning (Q-Learning), Evolutionary Computing (Genetic Programming), Minimax, A* Search, Automated Planning |
