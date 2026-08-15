@@ -4,6 +4,8 @@
 * **Technologies:** Python, Lisp
 * **Bullet Points:**
   * Modified A* search frontier selection to utilize min-max, in order to determine outcome of turn-based simulated competitions
+  * Implemented min-max algorithm to determine player decision for optimal outcome of competitive game using Python
+  * 
   * Implemented core AI search paradigms including **A* Search**, **Minimax**, and **Iterative Deepening Search (IDS)** to evaluate graph traversal efficiency and path cost optimization.
   * Engineered a **Partial Order Planning (POP)** system in Common Lisp to solve non-linear multi-agent planning and goal-stack problems.
 
