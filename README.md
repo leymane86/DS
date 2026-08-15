@@ -5,15 +5,12 @@
 * **Bullet Points:**
   * Modified A* search frontier selection to utilize min-max, in order to determine outcome of turn-based simulated competitions
   * Implemented min-max algorithm to determine player decision for optimal outcome of competitive game using Python
-  * 
-  * Implemented core AI search paradigms including **A* Search**, **Minimax**, and **Iterative Deepening Search (IDS)** to evaluate graph traversal efficiency and path cost optimization.
   * Engineered a **Partial Order Planning (POP)** system in Common Lisp to solve non-linear multi-agent planning and goal-stack problems.
 
 ---
 
 ### 2. Machine Learning, Statistical Modeling & Exploratory Data Analysis (EDA)
 * **Files Included:** `Data Prep and EDA.ipynb`, `PCA.ipynb`, `Simple Linear Regression.ipynb`, `Supervised Learning - Binary Classification.ipynb`, `Unsupervised Learning - K Means Clustering.ipynb`
-* **Project Title Suggestion:** End-to-End Machine Learning & Data Pipeline Toolkit
 * **Technologies:** Python, Jupyter, Pandas, NumPy, Scikit-Learn
 * **Bullet Points:**
   * Developed custom machine learning pipelines spanning data preprocessing, exploratory analysis, feature extraction via **Principal Component Analysis (PCA)**, and dimensionality reduction.
@@ -23,7 +20,6 @@
 
 ### 3. Evolutionary Computing & Reinforcement Learning
 * **Files Included:** `genetic programming.lisp`, `Q learning.lisp`
-* **Project Title Suggestion:** Reinforcement Learning & Evolutionary Algorithms
 * **Technologies:** Common Lisp
 * **Bullet Points:**
   * Developed a **Q-Learning** agent in Common Lisp to solve dynamic decision-making processes and model optimal policy convergence.
@@ -33,7 +29,6 @@
 
 ## Summary Table for Skills Section
 
-If you are updating your **Skills** section alongside your projects, map these implementations directly to core keywords:
 
 | Skill Category | Resume Keywords to Include |
 | :--- | :--- |
