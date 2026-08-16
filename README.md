@@ -6,7 +6,7 @@
   * Modified fronter selection of **A star search** to utilize **min-max**, in order to determine outcome of turn-based simulated competitions
   * Implemented **min-max** algorithm to determine player decision for optimal outcome of competitive game using Python
   * Developed script utilizing **iterative deepining search** to locate a particular node in a binary tree
-  * Engineered a **Partial Order Planning (POP)** system in Common Lisp to solve non-linear multi-agent planning and goal-stack problems.
+  * Engineered a **partial order planning (POP)** system with a teammate to solve block world and other planning problems
 
 ---
 
