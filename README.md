@@ -3,7 +3,7 @@
 * **Files Included:** `A-star min-max.py`, `Iterative Deepning Search.py`, `min-max.py`, `partial order planning.lisp`
 * **Technologies:** Python, Lisp
 * **Bullet Points:**
-  * Modified A* search frontier selection to utilize min-max, in order to determine outcome of turn-based simulated competitions
+  * Modified fronter selection of **A* search** algorithm to utilize min-max, in order to determine outcome of turn-based simulated competitions
   * Implemented min-max algorithm to determine player decision for optimal outcome of competitive game using Python
   * Engineered a **Partial Order Planning (POP)** system in Common Lisp to solve non-linear multi-agent planning and goal-stack problems.
 
