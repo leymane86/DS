@@ -17,6 +17,7 @@
   * Performed **data cleaning, EDA** and prepared for modeling to predicting customer churn.
   * Utilized **PCA** to determine which factors have largest influence on student grades
   * Fit model and made predictions on overall computer price based on individaul components using  **linear regression**
+  * Used **supervised learning** techniques, including Logistic Regression, Random Forest and Gradient Boosting to predict customer loan default and tuned models to maximize performance metrics
   * Implemented and benchmarked supervised models (**Binary Classification**, **Linear Regression**) and unsupervised algorithms (**K-Means Clustering**) for predictive modeling and pattern recognition.
 
 ---
