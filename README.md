@@ -14,7 +14,9 @@
 * **Files Included:** `Data Prep and EDA.ipynb`, `PCA.ipynb`, `Simple Linear Regression.ipynb`, `Supervised Learning - Binary Classification.ipynb`, `Unsupervised Learning - K Means Clustering.ipynb`
 * **Technologies:** Python, Jupyter, Pandas, NumPy, Scikit-Learn
 * **Bullet Points:**
-  * Developed custom machine learning pipelines spanning data preprocessing, exploratory analysis, feature extraction via **Principal Component Analysis (PCA)**, and dimensionality reduction.
+  * Performed **data cleaning, EDA** and prepared for modeling to predicting customer churn.
+  * Utilized **PCA** to determine which factors have largest influence on student grades
+  *
   * Implemented and benchmarked supervised models (**Binary Classification**, **Linear Regression**) and unsupervised algorithms (**K-Means Clustering**) for predictive modeling and pattern recognition.
 
 ---
