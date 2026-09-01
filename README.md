@@ -18,7 +18,7 @@
   * Utilized **PCA** to determine which factors have largest influence on student grades
   * Fit model and made predictions on overall computer price based on individaul components using  **linear regression**
   * Used **supervised learning** techniques, including Logistic Regression, Random Forest and Gradient Boosting to predict customer loan default and tuned models to maximize performance metrics
-  * Implemented and benchmarked supervised models (**Binary Classification**, **Linear Regression**) and unsupervised algorithms (**K-Means Clustering**) for predictive modeling and pattern recognition.
+  * Trained and optimized model based on **K-means** to cluster food based on nutritional content
 
 ---
 
@@ -26,8 +26,8 @@
 * **Files Included:** `genetic programming.lisp`, `Q learning.lisp`
 * **Technologies:** Common Lisp
 * **Bullet Points:**
-  * Developed a **Q-Learning** agent in Common Lisp to solve dynamic decision-making processes and model optimal policy convergence.
-  * Built a **Genetic Programming** engine using symbolic expression mutation and selection to solve automated program synthesis tasks.
+  * Developed a **Q-Learning** agent in Common Lisp to create self-learning opponent for NIM game
+  * Built a **Genetic Algorithm** optimize children based on pre-defined selection criteria and **Evolutionary Computation/Symbolic Regression** to construction equation based on available primitives. 
 
 ---
 
