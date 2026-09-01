@@ -36,7 +36,7 @@
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | Python, Common Lisp |
+| **Languages** | Python, Common Lisp, C++, SQL |
 | **Machine Learning & Data** | Supervised/Unsupervised Learning, K-Means, PCA, Binary Classification, Regression, Data Preprocessing, EDA |
 | **Artificial Intelligence** | Reinforcement Learning (Q-Learning), Evolutionary Computing (Genetic Programming), Minimax, A* Search, Automated Planning |
 | **Tools & Libraries** | Jupyter Notebooks, Scikit-Learn, Pandas, NumPy |
