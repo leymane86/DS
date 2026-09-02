@@ -26,4 +26,4 @@
 
 ### **Data Management**
 *SQL*
-* **General Knowledge:** Designed and created database and ran queries in SQL. 
+* **General Knowledge:** Built internal job tracking System SQL and PHP that provided management with additional insight on production status of factory floor. 
