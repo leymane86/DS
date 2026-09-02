@@ -3,7 +3,7 @@
 
 - **Languages:** Python, Common Lisp, C++, SQL
 - **Machine Learning & Data Science:** Supervised & Unsupervised Learning, Regression Analysis, Classification (Random Forest, Gradient Boosting, Logistic Regression), Clustering (K-Means), Dimensionality Reduction (PCA), Exploratory Data Analysis (EDA), Data Preprocessing
-- **Artificial Intelligence:** Reinforcement Learning (Q-Learning), Evolutionary Computing (Genetic Programming), Search Algorithms ($A^*$, Minimax, Iterative Deepening), Automated Planning (Partial Order Planning)
+- **Artificial Intelligence:** Reinforcement Learning (Q-Learning), Evolutionary Computing (Genetic Programming), Search Algorithms ($A^*$, Minimax, Iterative Deepening), Automated Planning (Partial Order Planning), Bayes Filter
 - **Libraries & Tools:** Scikit-Learn, Pandas, NumPy, Jupyter Notebooks, Git, SQL
 
 ---
@@ -17,6 +17,7 @@
 * **Reinforcement Learning Agent:** Built a model-free Q-Learning agent in Common Lisp to create an adaptive, self-learning opponent for the game of NIM.
 * **Symbolic Regression via Genetic Programming:** Implemented a Genetic Algorithm framework to evolve algebraic equations from primitive functional sets based on custom fitness evaluation criteria.
 * **Tree Search Optimization:** Scripted an Iterative Deepening Depth-First Search (IDDFS) algorithm in Python to optimize space-efficient target node retrieval in binary tree structures.
+*  **State Estimation:** Implemented Bayes Filter algorithm to estimate the hidden state of a robot based on sensor and position data
 
 ### **Predictive Modeling & Exploratory Data Analysis**
 *Technologies: Python, Scikit-Learn, Pandas, NumPy, Jupyter Notebooks*
