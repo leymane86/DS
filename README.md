@@ -16,7 +16,7 @@
 * **Reinforcement Learning Agent:** Built a model-free Q-Learning agent in Common Lisp to create an adaptive, self-learning opponent for the game of NIM.
 * **Symbolic Regression via Genetic Programming:** Implemented a Genetic Algorithm framework to evolve algebraic equations from primitive functional sets based on custom fitness evaluation criteria.
 * **Tree Search:** Scripted an Iterative Deepening Search (IDS) algorithm in Python for node retrieval in binary tree structures.
-*  **State Estimation:** Implemented Bayes Filter algorithm to estimate the hidden state of a robot based on sensor and position data
+*  **Hidden State Estimation:** Implemented Bayes Filter algorithm to estimate the hidden state of a robot based on sensor and position data
 
 ### **Predictive Modeling & Exploratory Data Analysis**
 *Technologies: Python, Scikit-Learn, Pandas, NumPy, Jupyter Notebooks*
