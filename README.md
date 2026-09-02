@@ -1,42 +1,37 @@
 
-### 1. Classical AI, Search Algorithms & Planning
-* **Files Included:** `A-star min-max.py`, `Iterative Deepning Search.py`, `min-max.py`, `partial order planning.lisp`
-* **Technologies:** Python, Lisp
-* **Bullet Points:**
-  * Modified frontier selection of **A star search** to utilize **min-max**, in order to determine outcome of turn-based simulated competitions
-  * Implemented **min-max** algorithm to determine player decision for optimal outcome of competitive game using Python
-  * Developed script utilizing **iterative deepening search** to locate a particular node in a binary tree
-  * Engineered a **partial order planning (POP)** system with a teammate to solve block world and other planning problems
+## TECHNICAL SKILLS
+
+- **Languages:** Python, Common Lisp, C++, SQL
+- **Machine Learning & Data Science:** Supervised & Unsupervised Learning, Regression Analysis, Classification (Random Forest, Gradient Boosting, Logistic Regression), Clustering (K-Means), Dimensionality Reduction (PCA), Exploratory Data Analysis (EDA), Data Preprocessing
+- **Artificial Intelligence:** Reinforcement Learning (Q-Learning), Evolutionary Computing (Genetic Programming), Search Algorithms ($A^*$, Minimax, Iterative Deepening), Automated Planning (Partial Order Planning)
+- **Libraries & Tools:** Scikit-Learn, Pandas, NumPy, Jupyter Notebooks, Git, SQL
 
 ---
 
-### 2. Machine Learning, Statistical Modeling & Exploratory Data Analysis (EDA)
-* **Files Included:** `Data Prep and EDA.ipynb`, `PCA.ipynb`, `Simple Linear Regression.ipynb`, `Supervised Learning - Binary Classification.ipynb`, `Unsupervised Learning - K Means Clustering.ipynb`
-* **Technologies:** Python, Jupyter, Pandas, NumPy, Scikit-Learn
-* **Bullet Points:**
-  * Performed **data cleaning, EDA** and prepared for modeling to predicting customer churn.
-  * Utilized **PCA** to determine which factors have largest influence on student grades
-  * Fit model and made predictions on overall computer price based on individaul components using  **linear regression**
-  * Used **supervised learning** techniques, including Logistic Regression, Random Forest and Gradient Boosting to predict customer loan default and tuned models to maximize performance metrics
-  * Trained and optimized model based on **K-means** to cluster food based on nutritional content
+## TECHNICAL PROJECTS
+
+### **Autonomous AI & Planning Systems**
+*Technologies: Python, Common Lisp*
+* **Minimax & $A^*$ Search Integration:** Engineered a hybrid search algorithm by modifying $A^*$ frontier selection with Minimax scoring to optimize turn-based competitive game outcomes.
+* **Partial Order Planning Engine:** Co-developed a Partial Order Planning (POP) system in Lisp to solve non-linear plan generation tasks, including the Block World domain.
+* **Reinforcement Learning Agent:** Built a model-free Q-Learning agent in Common Lisp to create an adaptive, self-learning opponent for the game of NIM.
+* **Symbolic Regression via Genetic Programming:** Implemented a Genetic Algorithm framework to evolve algebraic equations from primitive functional sets based on custom fitness evaluation criteria.
+* **Tree Search Optimization:** Scripted an Iterative Deepening Depth-First Search (IDDFS) algorithm in Python to optimize space-efficient target node retrieval in binary tree structures.
+
+### **Predictive Modeling & Exploratory Data Analysis**
+*Technologies: Python, Scikit-Learn, Pandas, NumPy, Jupyter Notebooks*
+* **Credit Risk Binary Classification:** Applied Logistic Regression, Random Forest, and Gradient Boosting models to predict customer loan defaults; tuned hyper-parameters to maximize ROC-AUC and model efficiency.
+* **Customer Churn & Food Clustering:** Performed end-to-end data pipelines (cleaning, feature engineering, and EDA) for churn prediction, and implemented K-Means clustering to analyze nutritional patterns in food datasets.
+* **Computer Price Prediction & Dimensionality Reduction:** Built a multivariate linear regression model to predict hardware pricing from specs, utilizing Principal Component Analysis (PCA) to isolate high-variance feature sets.
+
+### **Data Management**
+*SQL*
+* **General Knowledge:** Designed and created database and ran queries in SQL. 
 
 ---
 
-### 3. Evolutionary Computing & Reinforcement Learning
-* **Files Included:** `genetic programming.lisp`, `Q learning.lisp`
-* **Technologies:** Common Lisp
-* **Bullet Points:**
-  * Developed a **Q-Learning** agent in Common Lisp to create self-learning opponent for NIM game
-  * Built a **Genetic Algorithm** optimize children based on pre-defined selection criteria and **Evolutionary Computation/Symbolic Regression** to construction equation based on available primitives. 
+## EDUCATION
 
----
-
-## Summary Table for Skills Section
-
-
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | Python, Common Lisp, C++, SQL |
-| **Machine Learning & Data** | Supervised/Unsupervised Learning, K-Means, PCA, Binary Classification, Regression, Data Preprocessing, EDA |
-| **Artificial Intelligence** | Reinforcement Learning (Q-Learning), Evolutionary Computing (Genetic Programming), Minimax, A* Search, Automated Planning |
-| **Tools & Libraries** | Jupyter Notebooks, Scikit-Learn, Pandas, NumPy |
+**[Your Degree - e.g., Bachelor of Science in Computer Science]**  
+*[Your University Name], [Graduation Month Year]*  
+- **Relevant Coursework:** Artificial Intelligence, Machine Learning, Data Structures & Algorithms, Statistical Modeling
