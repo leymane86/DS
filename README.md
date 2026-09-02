@@ -1,4 +1,3 @@
-
 ## TECHNICAL SKILLS
 
 - **Languages:** Python, Common Lisp, C++, SQL
@@ -8,7 +7,7 @@
 
 ---
 
-## TECHNICAL PROJECTS
+## TECHNICAL PROJECTS AND CODE SAMPLES
 
 ### **Autonomous AI & Planning Systems**
 *Technologies: Python, Common Lisp*
@@ -28,11 +27,3 @@
 ### **Data Management**
 *SQL*
 * **General Knowledge:** Designed and created database and ran queries in SQL. 
-
----
-
-## EDUCATION
-
-**[Your Degree - e.g., Bachelor of Science in Computer Science]**  
-*[Your University Name], [Graduation Month Year]*  
-- **Relevant Coursework:** Artificial Intelligence, Machine Learning, Data Structures & Algorithms, Statistical Modeling
