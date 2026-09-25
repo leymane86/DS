@@ -27,3 +27,6 @@
 ### **Data Management**
 *SQL*
 * **General Knowledge:** Built internal job tracking System SQL and PHP that provided management with additional insight on production status of factory floor. 
+
+### **NEW**
+SVM, Perceptron and Logistic Regression Classifiers from scratch using python to achieve 30% accuracy with 10 class image classification 
